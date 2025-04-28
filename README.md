@@ -40,10 +40,10 @@ Atualmente, desenvolvo sistemas focados em:
 
 Se quiser trocar ideias, colaborar ou só bater um papo sobre tecnologia, estou sempre aberto!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luis-otavio-garcia-811027223/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:luisggcosta2006@gmail.com)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luiGarcg/luiGarcg/blob/output/github-contribution-grid-snake.svg)
 ---
 
