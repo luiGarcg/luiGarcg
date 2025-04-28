@@ -44,6 +44,5 @@ Se quiser trocar ideias, colaborar ou só bater um papo sobre tecnologia, estou 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:luisggcosta2006@gmail.com)
 
 
-![Snake animation](https://github.com/luiGarcg/luiGarcg/blob/output/github-contribution-grid-snake.svg)
 ---
 
